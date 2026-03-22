@@ -33,14 +33,7 @@ I’m building a portfolio of real-world analytics projects to prepare for inter
 
 ---
 
-</br>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-
-```
-<!--END_SECTION:waka-->
 
 
 📈 **My GitHub Stats:**
